@@ -1,4 +1,5 @@
- ☑️Assignment
+# HTML Structure
+## ☑️Assignment
 
 Create a fork of this CodePen do the following:
 
@@ -10,5 +11,6 @@ Create a fork of this CodePen do the following:
 6. Add a hyperlink to the footer element to your GitHub repository.
 7. When you are done save your changes and submit your CodePen URL to the Canvas assignment.
 
-## Final
+## ✅ Final
+[CodePen link 🔗👈](https://codepen.io/maxiparis/pen/NWZZayN?editors=1000)
 ![image](https://github.com/user-attachments/assets/f8ed7665-a069-426c-9f48-acf2dda371d8)
